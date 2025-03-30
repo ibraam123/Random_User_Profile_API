@@ -61,5 +61,5 @@ Each request returns a randomly generated user with details such as:
 This project is licensed under the MIT License.
 
 ---
-Developed by **[Your Name]**
+Developed by **Ibraam Magdy**
 
