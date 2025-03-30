@@ -36,7 +36,7 @@ The **Random User Profile App** is a Flutter application that fetches random use
    ```
 
 ## Dependencies Used
-- `http` – For making API requests
+- `Dio` – For making API requests
 - `flutter/material.dart` – Core UI components
 
 ## API Usage
@@ -51,8 +51,6 @@ Each request returns a randomly generated user with details such as:
 - Address
 - Profile Picture
 
-## Screenshots
-*(Include screenshots of your app here if available)*
 
 ## Future Improvements
 - Add caching to store previously fetched users
